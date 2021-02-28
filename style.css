@@ -1,0 +1,111 @@
+body{
+    background-color:white;
+    
+}
+
+#navbar .navbar-brand #navLinks{
+   background-color: black;
+    font-family: 'Truculenta', sans-serif;
+    font-size: 3em;
+ 
+}   
+    #navbar .nav-link:hover{
+      color:white;
+      
+     
+    }
+.icon{
+    display:flex;
+    justify-content: center;
+    align-content: top;
+}
+#loginb{
+    width: 100%;
+    background: none;
+    color: #f5fcfb;
+    border: 2px solid;
+    padding: 1em;
+    font-size: 1em;
+    transition: color 0.25s, border-color 0.25s, box-shadow 0.25s, transform 0.25s;
+}
+#loginb:hover{
+    border-color: #ff5c5c;
+    color: rgb(252, 5, 5);
+    box-shadow: 0 .5em 0.5em -0.4em #daf104;
+    transform: translateY(-0.25em);
+}
+#upper{
+    font-family: "Times New Roman", Times, serif;
+    background: url("about.jpg") no-repeat  center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: whitesmoke;
+    
+}
+
+
+#demo{
+    padding-bottom: 3em;
+
+        border-left: 3px solid blueviolet;
+        height: 300px;
+}
+#demo1:hover{
+    transform: translateX(0.25em);
+}
+#container2{
+    
+    background-color:rgb(7, 6, 6);
+    border: solid 0.1em #FF9444;
+    background-size: cover;
+}
+#new1,#new2{
+    color: lightskyblue;
+    border: 2px solid;
+    padding: .5em;
+    font-size: 1em;
+}
+#new,#new2:hover{
+    background-color: rgb(238, 14, 14);
+    color: rgb(223, 236, 232);
+}
+
+.row{
+    padding-top: 4%;
+    font-family: "Times New Roman", Times, serif;
+}
+#menu2:hover{
+    
+    transform:translateX(5px);
+    transition: 1s;
+}
+#review1,#review2{
+    color: #3E454B;
+    background-color: whitesmoke;
+    padding-left: 30px;
+    margin-left: 30px;
+    padding-bottom: 10px;
+
+}
+#font1,#font2{
+    font-family: 'Caveat', cursive;
+}
+#about{
+    background-color: whitesmoke;
+    
+}
+#anoxin{
+    font-family: 'Times New Roman', sans-serif;
+    padding-left: 
+    50px;
+    padding-right: 50px;
+   
+}
+
+
+#navbar{
+    background-color: black;
+}
+
+   
