@@ -1,2 +1,1 @@
-# webwizardspr
-https://yash-rana23.github.io/ANOXIN/
+https://yash-rana23.github.io/Anoxin/
